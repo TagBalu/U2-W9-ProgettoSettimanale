@@ -52,7 +52,7 @@ const Mymainhome = () => {
 
       <MovieGallery title="Harry Potter" query="Harry Potter" />
       <MovieGallery title="The Lord of the Rings" query="Lord of the Rings" />
-      <MovieGallery title="The Dark Knight Trilogy" query="Dark Knight" />
+      <MovieGallery title="The Avengers" query="avengers" />
     </div>
   );
 };
